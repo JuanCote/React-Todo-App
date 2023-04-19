@@ -1,0 +1,28 @@
+.col {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0.4rem;
+    align-items: center;
+}
+.button {
+    background: #489cc1 !important;
+    margin-left: 0.5rem;
+}
+.button:hover {
+    background: #3f83a1 !important;
+}
+.main {
+    margin-top: 1rem;
+}
+.title {
+    overflow-wrap: break-word;
+    max-width: 330px;
+    font-size: 18px;
+}
+.titleFalse {
+    font-size: 18px;
+    overflow-wrap: break-word;
+    max-width: 330px;
+    text-decoration: line-through;
+    color: grey;
+}

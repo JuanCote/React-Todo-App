@@ -1,0 +1,7 @@
+.button {
+    background: #489cc1 !important;
+    margin-left: 0.5rem;
+}
+.button:hover {
+    background: #3f83a1 !important;
+}
